@@ -99,8 +99,8 @@ public class EarthquakeCityMap extends PApplet {
 		//earthquakesURL = "test1.atom";
 		//earthquakesURL = "test2.atom";
 
-		// Uncomment this line to take the quiz
-		//earthquakesURL = "quiz2.atom";
+		 
+		earthquakesURL = "quiz2.atom";
 
 
 		// (2) Reading in earthquake data and geometric properties
